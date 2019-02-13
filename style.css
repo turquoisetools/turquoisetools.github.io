@@ -1,8 +1,64 @@
 body {
     font-family: sans-serif;
+    margin: 0
     
 }
 
 #app {
-    background: #008577
+    font-family: Roboto, sans-serif;
+    background: #008577;
+    padding-top: 20px;
+    margin-bottom: 100px;
+}
+#app #content {
+    display: table;
+    margin: auto auto;
+}
+#app #screens {
+    display: table-cell;
+    margin-right: 10px
+}
+#app #text {
+    display: table-cell;
+    vertical-align: middle;
+    padding-top: 80px;
+    color: #ffffff
+}
+#app #text #title {
+    margin-left: 20px;
+}
+#app #text h1 {
+    font-size: 42px;
+    display: inline;
+    vertical-align: top;
+}
+#app #text #icon {
+    margin-right: 20px
+}
+
+#app #text ul {
+    list-style-type: none;
+    margin-left: 20px;
+    padding: 0;
+    font-size: 20px;
+}
+#app #text li {
+    margin-bottom: 10px
+}
+
+
+#faq {
+    margin: auto auto;
+    width: 700px;
+}
+#faq h2 {
+    text-align: center;
+    font-size: 32px
+}
+#faq ul {
+    list-style-type: none;
+    line-height: 22px
+}
+#faq li {
+    margin-bottom: 36px;
 }
