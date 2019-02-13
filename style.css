@@ -49,6 +49,7 @@ body {
 
 #faq {
     margin: auto auto;
+    margin-bottom: 120px;
     width: 700px;
 }
 #faq h2 {
