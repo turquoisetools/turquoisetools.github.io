@@ -6,20 +6,37 @@ body {
 #app {
     background: #008577;
     padding-top: 40px;
-    margin-bottom: 100px;
     text-align: center;
 
+    margin-bottom: 40px;
 }
+
+@media (min-width:1025px) {
+
+    #app {
+        margin-bottom: 100px;
+    }
+
+}
+
 #app #wrap-inner {
     margin: auto auto;
     display: table;
 }
 #app #screens {
-    display: table-cell;
+    display: none;
 
     margin-right: 10px;
     vertical-align: bottom;
 }
+
+@media (min-width:1025px) {
+    #app #screens {
+        display: table-cell;
+    }
+}
+
+
 #app #text {
     display: table-cell;
 
@@ -27,9 +44,17 @@ body {
 
     vertical-align: bottom;
     color: #ffffff;
-    padding-bottom: 50px;
 
+    padding-bottom: 10px;
 }
+
+@media (min-width:1025px) {
+    #app #text {
+        padding-bottom: 50px;
+    }
+}
+
+
 #app #text #title {
     margin-left: 20px;
 }
