@@ -1,11 +1,10 @@
 body {
-    font-family: sans-serif;
+    font-family: Roboto, sans-serif;
     margin: 0
     
 }
 
 #app {
-    font-family: Roboto, sans-serif;
     background: #008577;
     padding-top: 20px;
     margin-bottom: 100px;
@@ -33,6 +32,7 @@ body {
     vertical-align: top;
 }
 #app #text #icon {
+    display: inline;
     margin-right: 20px
 }
 
@@ -49,25 +49,72 @@ body {
 
 #content {
     margin: auto auto;
-    margin-bottom: 120px;
+    margin-bottom: 100px;
     width: 640px;
+    line-height: 1.6em;
 }
 
 #description {
     margin-bottom: 70px
 }
+#description .first {
+    font-size: 20px;
+    margin-bottom: 40px;
+    line-height: 1.6em;
+}
 
 #faq {
-
+    margin-bottom: 60px;
 }
 #faq h2 {
     font-size: 32px
 }
 #faq ul {
     list-style-type: none;
-    line-height: 22px;
     padding: 0
 }
 #faq li {
     margin-bottom: 36px;
 }
+
+
+#get-it-bottom {
+    margin-bottom: 40px;
+}
+#get-it-bottom #app-name {
+    background: #008577;
+    padding: 10px;
+    padding-left: 20px;
+    padding-bottom: 4px;
+    border-radius: 10px;
+}
+#get-it-bottom #app-name a {
+    text-decoration: none
+}
+#get-it-bottom #app-name span {
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 28px;
+    font-size: 42px;
+    vertical-align: top;
+    color: #fff;
+}
+#get-it-bottom #app-name #app-icon {
+    vertical-align: top;
+    margin-top: 14px;
+    margin-left: 28px;
+    margin-right: 20px;
+}
+
+
+
+#footer {
+    margin-top: 80px;
+    text-align: left;
+    color: #aaa;
+}
+
+#footer a {
+    color: #aaa
+}
+
