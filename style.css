@@ -95,9 +95,22 @@ body {
     padding-left: 20px;
     padding-bottom: 4px;
     border-radius: 10px;
+    display: table;
+    width: 100%;
 }
 #get-it-bottom #app-name a {
     text-decoration: none
+}
+#get-it-bottom #app-name-link, #gplay-button {
+    display: table-cell;
+    vertical-align: top;
+}
+#get-it-bottom #app-name-link {
+    padding-left: 10px;
+}
+#gplay-button {
+    text-align: right;
+    padding-right: 10px;
 }
 #get-it-bottom #app-name span {
     font-weight: bold;
