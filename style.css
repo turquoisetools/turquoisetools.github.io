@@ -10,20 +10,22 @@ body {
     text-align: center;
 }
 #app #wrap-inner {
-    display: inline-block;
+    display: table;
+    table-layout: fixed;
     margin: auto auto;
     text-align: left;
 }
 #app #screens {
-    display: inline-block;
-    margin-right: 10px;
-    vertical-align: bottom;
+    display: table-cell;
+    width: 475px;
+    margin-right: 10px
 }
 #app #text {
-    display: inline-block;
-    color: #ffffff;
-    vertical-align: bottom;
-    margin-bottom: 50px;
+    width: 430px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-top: 80px;
+    color: #ffffff
 }
 #app #text #title {
     margin-left: 20px;
@@ -97,26 +99,28 @@ body {
 
 #get-it-bottom {
     margin-bottom: 40px;
+    display: table;
+    table-layout: fixed;
     width: 100%;
     background: #008577;
     padding-top: 10px;
     padding-bottom: 4px;
-    text-align: center;
     border-radius: 10px;
 }
 #get-it-bottom a {
     text-decoration: none
 }
 #get-it-bottom #app-name-link, #gplay-button {
-    display: inline-block;
+    display: table-cell;
     vertical-align: top;
     text-align: center;
 }
 
 #get-it-bottom #app-name-link {
-    margin-right: 30px;
+    width: 400px;
 }
 #get-it-bottom #gplay-button {
+    width: 252px;
 }
 
 #get-it-bottom span {
