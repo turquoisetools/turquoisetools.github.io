@@ -66,6 +66,10 @@ body {
     line-height: 1.6em;
 }
 
+#content p {
+    margin-bottom: 20px;
+}
+
 .highlight {
     color: #008577
 }
