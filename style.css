@@ -86,6 +86,8 @@ body {
 
 #get-it-bottom {
     margin-bottom: 40px;
+    display: inline-block;
+    display: block;
 }
 #get-it-bottom #app-name {
     background: #008577;
@@ -101,6 +103,7 @@ body {
     font-weight: bold;
     display: inline-block;
     margin-top: 28px;
+    margin-right: 20px;
     font-size: 42px;
     vertical-align: top;
     color: #fff;
@@ -108,7 +111,6 @@ body {
 #get-it-bottom #app-name #app-icon {
     vertical-align: top;
     margin-top: 14px;
-    margin-left: 28px;
     margin-right: 20px;
 }
 
