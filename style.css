@@ -59,6 +59,17 @@ body {
     line-height: 1.6em;
 }
 
+.highlight {
+    color: #008577
+}
+
+#content a,
+#content a:active,
+#content a:visited,
+#content a:hover {
+    color: #008577
+}
+
 #description {
     margin-bottom: 70px
 }
@@ -123,7 +134,10 @@ body {
     color: #aaa;
 }
 
-#footer a {
+#footer a,
+#footer a:active,
+#footer a:visited,
+#footer a:hover {
     color: #aaa
 }
 
