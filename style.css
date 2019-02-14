@@ -101,7 +101,6 @@ body {
     display: table-cell;
     vertical-align: top;
     text-align: center;
-    border:1px solid red;
 }
 #get-it-bottom span {
     font-weight: bold;
