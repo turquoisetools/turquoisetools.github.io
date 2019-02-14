@@ -8,20 +8,23 @@ body {
     padding-top: 40px;
     margin-bottom: 100px;
     text-align: center;
-    border:1px solid red;
+
+    /*border:1px solid red;*/
 }
 #app #wrap-inner {
     display: table;
     table-layout: fixed;
     margin: auto auto;
     text-align: left;
-    border:1px solid red;
+
+    /*border:1px solid red;*/
 }
 #app #screens {
     display: table-cell;
     width: 475px;
     margin-right: 10px;
-    border:1px solid red;
+
+    /*border:1px solid red;*/
 }
 #app #text {
     width: 430px;
@@ -29,7 +32,8 @@ body {
     vertical-align: middle;
     padding-top: 80px;
     color: #ffffff;
-    border:1px solid red;
+
+    /*border:1px solid red;*/
 }
 #app #text #title {
     margin-left: 20px;
@@ -115,7 +119,7 @@ body {
     padding-bottom: 4px;
     border-radius: 10px;
 
-    border:1px solid red;
+    /*border:1px solid red;*/
 }
 #get-it-bottom a {
     text-decoration: none
@@ -124,7 +128,8 @@ body {
     display: table-cell;
     vertical-align: top;
     text-align: center;
-    border:1px solid red;
+
+    /*border:1px solid red;*/
 }
 
 #get-it-bottom #app-name-link {
