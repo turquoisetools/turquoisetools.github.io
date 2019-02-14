@@ -16,9 +16,11 @@ body {
 }
 #app #screens {
     display: table-cell;
+    width: 475px;
     margin-right: 10px
 }
 #app #text {
+    width: 430px;
     display: table-cell;
     vertical-align: middle;
     padding-top: 80px;
@@ -97,12 +99,11 @@ body {
 #get-it-bottom {
     margin-bottom: 40px;
     display: table;
+    width: 100%;
     background: #008577;
     padding-top: 10px;
     padding-bottom: 4px;
     border-radius: 10px;
-    display: table;
-    width: 100%;
 }
 #get-it-bottom a {
     text-decoration: none
@@ -112,6 +113,14 @@ body {
     vertical-align: top;
     text-align: center;
 }
+
+#get-it-bottom #app-name-link {
+    width: 388px;
+}
+#get-it-bottom #gplay-button {
+    width: 252px;
+}
+
 #get-it-bottom span {
     font-weight: bold;
     display: inline-block;
