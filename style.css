@@ -101,10 +101,7 @@ body {
     display: table-cell;
     vertical-align: top;
     text-align: center;
-}
-#get-it-bottom #app-name-link {
-}
-#gplay-button {
+    border:1px solid red;
 }
 #get-it-bottom span {
     font-weight: bold;
