@@ -61,9 +61,18 @@ body {
 #content {
     margin: auto auto;
     margin-bottom: 100px;
-    width: 44%;
     line-height: 1.6em;
+    width: 92%;
 }
+
+@media (min-width:1025px) {
+
+    #content {
+        width: 44%;
+    }
+
+}
+
 
 #content p {
     margin-bottom: 20px;
