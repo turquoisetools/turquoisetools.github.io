@@ -118,9 +118,11 @@ body {
 
 #get-it-bottom #app-name-link {
     width: 60%;
+    height: 84px;
 }
 #get-it-bottom #gplay-button {
     width: 40%;
+    height: 84px;
 }
 
 #get-it-bottom span {
