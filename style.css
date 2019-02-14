@@ -18,14 +18,14 @@ body {
 #app #screens {
     display: table-cell;
     width: 475px;
-    margin-right: 10px
+    margin-right: 10px;
 }
 #app #text {
     width: 430px;
     display: table-cell;
     vertical-align: middle;
     padding-top: 80px;
-    color: #ffffff
+    color: #ffffff;
 }
 #app #text #title {
     margin-left: 20px;
@@ -117,10 +117,10 @@ body {
 }
 
 #get-it-bottom #app-name-link {
-    width: 400px;
+    width: 60%;
 }
 #get-it-bottom #gplay-button {
-    width: 252px;
+    width: 40%;
 }
 
 #get-it-bottom span {
