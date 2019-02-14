@@ -117,7 +117,8 @@ body {
 }
 
 #get-it-bottom #app-name-link {
-    width: 392px;
+    width: 400px;
+    border:1px solid red;
 }
 #get-it-bottom #gplay-button {
     width: 252px;
