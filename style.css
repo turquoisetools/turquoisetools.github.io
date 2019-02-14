@@ -125,8 +125,7 @@ body {
     text-decoration: none
 }
 #get-it-bottom #app-name-link, #gplay-button {
-    display: table-cell;
-    vertical-align: top;
+    float: left;
     text-align: center;
 
     /*border:1px solid red;*/
@@ -143,6 +142,7 @@ body {
     margin-top: 28px;
     vertical-align: top;
     color: #fff;
+    font-size: 42px;
 }
 #get-it-bottom #app-icon {
     vertical-align: top;
