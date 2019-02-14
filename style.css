@@ -10,7 +10,7 @@ body {
     padding-top: 20px;
     margin-bottom: 100px;
 }
-#app #content {
+#app #wrap-inner {
     display: table;
     margin: auto auto;
 }
@@ -47,18 +47,26 @@ body {
 }
 
 
-#faq {
+#content {
     margin: auto auto;
     margin-bottom: 120px;
-    width: 700px;
+    width: 640px;
+}
+
+#description {
+    margin-bottom: 70px
+}
+
+#faq {
+
 }
 #faq h2 {
-    text-align: center;
     font-size: 32px
 }
 #faq ul {
     list-style-type: none;
-    line-height: 22px
+    line-height: 22px;
+    padding: 0
 }
 #faq li {
     margin-bottom: 36px;
