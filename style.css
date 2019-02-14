@@ -26,6 +26,10 @@ body {
 #app #text #title {
     margin-left: 20px;
 }
+#app #text #title a {
+    color: #fff;
+    text-decoration: none
+}
 #app #text h1 {
     font-size: 42px;
     display: inline;
