@@ -11,6 +11,7 @@ body {
 }
 #app #wrap-inner {
     display: table;
+    table-layout: fixed;
     margin: auto auto;
     text-align: left;
 }
@@ -99,6 +100,7 @@ body {
 #get-it-bottom {
     margin-bottom: 40px;
     display: table;
+    table-layout: fixed;
     width: 100%;
     background: #008577;
     padding-top: 10px;
@@ -115,7 +117,7 @@ body {
 }
 
 #get-it-bottom #app-name-link {
-    width: 390px;
+    width: 388px;
 }
 #get-it-bottom #gplay-button {
     width: 252px;
