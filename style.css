@@ -142,6 +142,10 @@ body {
     vertical-align: top;
     color: #fff;
     font-size: 42px;
+    float: left;
+}
+#get-it-bottom img {
+    float: left;
 }
 #get-it-bottom #app-icon {
     vertical-align: top;
