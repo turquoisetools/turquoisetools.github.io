@@ -19,6 +19,7 @@ body {
     display: table-cell;
     width: 475px;
     margin-right: 10px;
+    border:1px solid red;
 }
 #app #text {
     width: 430px;
