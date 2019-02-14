@@ -10,22 +10,19 @@ body {
     text-align: center;
 }
 #app #wrap-inner {
-    display: table;
-    table-layout: fixed;
     margin: auto auto;
     text-align: left;
+    overflow: auto;
+    width: 920px;
 }
 #app #screens {
-    display: table-cell;
-    width: 475px;
+    float: left;
     margin-right: 10px;
 }
 #app #text {
-    width: 430px;
-    display: table-cell;
-    vertical-align: middle;
-    padding-top: 80px;
+    float: left;
     color: #ffffff;
+    margin-top: 140px;
 }
 #app #text #title {
     margin-left: 20px;
@@ -99,9 +96,8 @@ body {
 
 #get-it-bottom {
     margin-bottom: 40px;
-    display: table;
-    table-layout: fixed;
     width: 100%;
+    overflow: auto;
     background: #008577;
     padding-top: 10px;
     padding-bottom: 4px;
@@ -111,8 +107,7 @@ body {
     text-decoration: none
 }
 #get-it-bottom #app-name-link, #gplay-button {
-    display: table-cell;
-    vertical-align: top;
+    float: left;
     text-align: center;
 }
 
