@@ -115,8 +115,16 @@ body {
 }
 
 #description {
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
+
+@media (min-width:1025px) {
+    #description {
+        margin-bottom: 70px;
+    }
+}
+
+
 #description .first {
     font-weight: bold;
     font-size: 19px;
