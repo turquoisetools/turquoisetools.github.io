@@ -8,32 +8,25 @@ body {
     padding-top: 40px;
     margin-bottom: 100px;
     text-align: center;
-
-    /*border:1px solid red;*/
 }
 #app #wrap-inner {
-    display: table;
-    table-layout: fixed;
     margin: auto auto;
-    text-align: left;
-
-    /*border:1px solid red;*/
 }
 #app #screens {
-    display: table-cell;
-    width: 475px;
+    display: inline-block;
     margin-right: 10px;
-
-    /*border:1px solid red;*/
+    vertical-align: bottom;
 }
 #app #text {
-    width: 430px;
-    display: table-cell;
-    vertical-align: middle;
+    display: inline-block;
+
+    text-align: left;
+
+    vertical-align: bottom;
     padding-top: 80px;
     color: #ffffff;
 
-    /*border:1px solid red;*/
+    margin-bottom: 40px;
 }
 #app #text #title {
     margin-left: 20px;
@@ -111,8 +104,6 @@ body {
 
 #get-it-bottom {
     margin-bottom: 40px;
-    display: table;
-    table-layout: fixed;
     width: 100%;
     background: #008577;
     padding-top: 10px;
@@ -125,15 +116,9 @@ body {
     text-decoration: none
 }
 #get-it-bottom #app-name-link, #gplay-button {
-    float: left;
     text-align: center;
 
     /*border:1px solid red;*/
-}
-
-#get-it-bottom #app-name-link {
-}
-#get-it-bottom #gplay-button {
 }
 
 #get-it-bottom span {
@@ -142,15 +127,13 @@ body {
     vertical-align: top;
     color: #fff;
     font-size: 42px;
-    float: left;
-}
-#get-it-bottom img {
-    float: left;
+    display: inline-block;
+    border:1px solid red;
 }
 #get-it-bottom #app-icon {
     vertical-align: top;
     margin-top: 14px;
-    margin-right: 20px;
+    display: inline-block;
 }
 
 
