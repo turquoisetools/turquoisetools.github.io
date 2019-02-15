@@ -120,7 +120,8 @@ body {
 }
 
 .highlight {
-    color: #008577
+    /*color: #008577*/
+    font-weight: bold;
 }
 
 #content a,
