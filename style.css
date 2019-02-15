@@ -60,7 +60,9 @@ body {
     margin-bottom: 30px;
 }
 @media (min-width:1025px) {
-    margin-bottom: 0;
+    #app #text #title {
+        margin-bottom: 0;
+    }
 }
 
 #app #text #title a {
@@ -98,15 +100,16 @@ body {
 
 #content {
     margin: auto auto;
-    margin-bottom: 100px;
     line-height: 1.6em;
     width: 92%;
+    margin-bottom: 10px;
 }
 
 @media (min-width:1025px) {
 
     #content {
         width: 44%;
+        margin-bottom: 100px;
     }
 
 }
@@ -172,24 +175,36 @@ body {
 #get-it-bottom a {
     text-decoration: none
 }
-#get-it-bottom #app-name-link, #gplay-button {
-}
 
 #get-it-bottom span {
-    font-weight: bold;
-    margin-top: 28px;
-    vertical-align: top;
-    color: #fff;
-    font-size: 42px;
-    display: inline-block;
-    width: 280px;
+    display:none;
 }
+
+@media (min-width:1025px) {
+    #get-it-bottom span {
+        font-weight: bold;
+        margin-top: 28px;
+        vertical-align: top;
+        color: #fff;
+        font-size: 42px;
+        display: inline-block;
+        width: 280px;
+    }
+}
+
+
 #get-it-bottom #app-icon {
     vertical-align: top;
     margin-top: 14px;
+    margin-right: 10px;
     display: inline-block;
 }
 
+@media (min-width:1025px) {
+    #get-it-bottom #app-icon {
+        margin-right: 0;
+    }
+}
 
 
 #footer {
