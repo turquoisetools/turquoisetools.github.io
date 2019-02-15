@@ -57,10 +57,15 @@ body {
 
 #app #text #title {
     margin-left: 20px;
+    margin-bottom: 30px;
 }
+@media (min-width:1025px) {
+    margin-bottom: 0;
+}
+
 #app #text #title a {
     color: #fff;
-    text-decoration: none
+    text-decoration: none;
 }
 #app #text h1 {
     font-size: 42px;
