@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<style>
+
+	<attr name=“textColor” value=“#ffffff”>
+
+	<attr name=“fontName” value=“Roboto”>
+	<attr name=“maxFontSize” value=“24sp”>
+
+	<attr name=“strokeSize” value=“2dp”>
+	<attr name=“strokeColor” value=“#000000”>
+
+	<attr name=“shadowRadius” value=“10”>
+	<attr name=“shadowX” value=“0”>
+	<attr name=“shadowY” value=“0”>
+	<attr name=“shadowColor” value=“#000000”>
+
+	<attr name=“backgroundColor” value=“#000000”>
+
+</style>
