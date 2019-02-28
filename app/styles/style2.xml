@@ -17,5 +17,7 @@
 
     <attr name="backgroundColor">#000000</attr>
 
+    <attr name="whatever">#000000</attr>
+
 </style>
 
