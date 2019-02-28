@@ -5,9 +5,9 @@
     <attr name="textColor">#ffffff</attr>
 
     <attr name="fontName">Roboto</attr>
-    <attr name="maxFontSize">24sp</attr>
+    <attr name="maxFontSize">24</attr>
 
-    <attr name="strokeSize">2dp</attr>
+    <attr name="strokeSize">2</attr>
     <attr name="strokeColor">#000000</attr>
 
     <attr name="shadowRadius">10</attr>
