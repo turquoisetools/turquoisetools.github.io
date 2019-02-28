@@ -5,7 +5,7 @@
     <attr name="fontName">GreatVibes</attr>
 
     <attr name="textColor">#ffffff</attr>
-    <attr name="maxTextSize">24</attr>
+    <attr name="textMaxSize">24</attr>
 
     <attr name="strokeSize">2</attr>
     <attr name="strokeColor">#000000</attr>
