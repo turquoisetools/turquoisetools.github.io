@@ -2,19 +2,19 @@
 
 <style>
 
-	<attr name="textColor" value="#ffffff">
+    <attr name="textColor">#ffffff</attr>
 
-	<attr name="fontName" value="Roboto">
-	<attr name="maxFontSize" value="24sp">
+    <attr name="fontName">Roboto</attr>
+    <attr name="maxFontSize">24sp</attr>
 
-	<attr name="strokeSize" value="2dp">
-	<attr name="strokeColor" value="#000000">
+    <attr name="strokeSize">2dp</attr>
+    <attr name="strokeColor">#000000</attr>
 
-	<attr name="shadowRadius" value="10">
-	<attr name="shadowX" value="0">
-	<attr name="shadowY" value="0">
-	<attr name="shadowColor" value="#000000">
+    <attr name="shadowRadius">10</attr>
+    <attr name="shadowX">0</attr>
+    <attr name="shadowY">0</attr>
+    <attr name="shadowColor">#000000</attr>
 
-	<attr name="backgroundColor" value="#000000">
+    <attr name="backgroundColor">#000000</attr>
 
 </style>
