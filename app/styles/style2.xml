@@ -2,10 +2,10 @@
 
 <style>
 
-    <attr name="textColor">#ffffff</attr>
-
     <attr name="fontName">CourierPrime</attr>
-    <attr name="maxFontSize">24</attr>
+
+    <attr name="textColor">#ffffff</attr>
+    <attr name="maxTextSize">24</attr>
 
     <attr name="strokeSize">2</attr>
     <attr name="strokeColor">#000000</attr>
