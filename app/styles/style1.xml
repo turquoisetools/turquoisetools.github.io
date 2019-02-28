@@ -4,7 +4,7 @@
 
     <attr name="textColor">#ffffff</attr>
 
-    <attr name="fontName">Roboto</attr>
+    <attr name="fontName">GreatVibes</attr>
     <attr name="maxFontSize">24</attr>
 
     <attr name="strokeSize">2</attr>
