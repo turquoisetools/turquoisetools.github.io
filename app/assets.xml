@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<assets>
+
+    <asset type="style">style1.xml</asset>
+    <asset type="style">style2.xml</asset>
+
+    <!--
+    <file type="font">font1.ttf</file>
+    <file type="font">font2.ttf</file>
+
+    <file type="background">bg001.jpg</file>
+    <file type="background">bg002.jpg</file>
+    -->
+
+</assets>
