@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<affs>
+
+
+    <cat name="Life">
+
+        <aff author="freeaffirmations.org">I feel great about myself and my life.</aff>
+
+    </cat>
+
+
+    <cat name="Success">
+    </cat>
+
+
+    <cat name="Relationships">
+    </cat>
+
+
+    <cat name="Career">
+    </cat>
+
+
+    <cat name="Money">
+    </cat>
+
+
+    <cat list="Health">
+    </cat>
+
+
+</affs>
+
