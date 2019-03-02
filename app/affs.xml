@@ -3,30 +3,100 @@
 <affs>
 
 
-    <cat name="Life">
+    <cat name="Motivation">
 
-        <aff author="freeaffirmations.org">I feel great about myself and my life.</aff>
+        <aff>I am a highly motivated person</aff>
+        <aff>I am motivated at all times</aff>
+        <aff>I am always motivated and always get things done on time</aff>
+        <aff>I am a naturally motivated individual and motivation comes naturally to me</aff>
+        <aff>I am naturally motivated and energized at the beginning of every day</aff>
+        <aff>I am highly motivated, ambitious and driven</aff>
+        <aff>I find it easy to motivate myself and get myself in the right state of mind</aff>
+        <aff>I am always looked up to as someone with high energy, drive, and motivation</aff>
+        <aff>I stay motivated throughout a project no matter what</aff>
+        <aff>I am always motivated and my positive energy motivates and lifts those around me</aff>
 
     </cat>
 
 
-    <cat name="Success">
-    </cat>
+    <cat name="Love yourself">
 
+        <aff>I feel great about myself and my life.</aff>
+        <aff>I love myself unconditionally</aff>
+        <aff>I am a good person who deserves to be happy</aff>
+        <aff>I take pride in who I am</aff>
+        <aff>I am happy just being me</aff>
+        <aff>I am totally comfortable being myself</aff>
+        <aff>I have limitless confidence in my abilities</aff>
+        <aff>I accept myself deeply and completely</aff>
+        <aff>I have accomplished great things</aff>
+        <aff>Others are inspired by my ability to be myself</aff>
+        <aff>I have confidence in my ability to do whatever I set my mind to</aff>
 
-    <cat name="Relationships">
-    </cat>
-
-
-    <cat name="Career">
-    </cat>
-
-
-    <cat name="Money">
     </cat>
 
 
     <cat name="Health">
+
+        <aff>I am healthy</aff>
+        <aff>My mind is positive and healthy</aff>
+        <aff>My body is strong and healthy</aff>
+        <aff>I always eat healthy food</aff>
+        <aff>I exercise and take care of my body</aff>
+        <aff>I am dedicated to improving my health</aff>
+        <aff>I am resilient against illness</aff>
+        <aff>I recover quickly from being sick</aff>
+        <aff>My immune system is strong</aff>
+        <aff>I always make healthy choices</aff>
+
+    </cat>
+
+
+    <cat name="Relationships">
+
+        <aff>I am in love with my partner</aff>
+        <aff>I respect my partner deeply</aff>
+        <aff>I am able to be my true self around my partner</aff>
+        <aff>I communicate my wants and needs clearly</aff>
+        <aff>I always take into consideration the perspective of my partner</aff>
+        <aff>I am constantly striving to grow the love between my partner and myself</aff>
+        <aff>I am able to draw boundaries when needed</aff>
+        <aff>I go out of my way to support my partner</aff>
+        <aff>I am tuned in to the wants and needs of my partner</aff>
+        <aff>I am able to take space for myself when needed</aff>
+
+    </cat>
+
+
+    <cat name="Money">
+
+        <aff>I am wealthy</aff>
+        <aff>I always have money</aff>
+        <aff>I attract financial abundance</aff>
+        <aff>My mind is finely tuned for attracting massive wealth</aff>
+        <aff>I always think positively about money</aff>
+        <aff>I have many financial opportunities</aff>
+        <aff>I always find a way to make a large profit</aff>
+        <aff>I am rich and prosperous</aff>
+        <aff>My life is full of abundance</aff>
+        <aff>I am focused on achieving wealth</aff>
+
+    </cat>
+
+
+    <cat name="Weight loss">
+
+        <aff>I am losing weight</aff>
+        <aff>I am slim and fit</aff>
+        <aff>I always take care of my body</aff>
+        <aff>I only eat healthy food</aff>
+        <aff>I am motivated to lose weight and become healthy</aff>
+        <aff>I am living a healthy life style</aff>
+        <aff>I am dedicated to following my weight loss plan</aff>
+        <aff>I am disciplined in my eating habits</aff>
+        <aff>I am strong in mind and body</aff>
+        <aff>I am completely focused on losing weight</aff>
+
     </cat>
 
 
