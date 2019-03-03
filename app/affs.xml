@@ -19,7 +19,7 @@
     </cat>
 
 
-    <cat name="Love yourself">
+    <cat name="Love yourself" icon="apple.xml">
 
         <aff>I feel great about myself and my life.</aff>
         <aff>I love myself unconditionally</aff>
@@ -36,7 +36,7 @@
     </cat>
 
 
-    <cat name="Health">
+    <cat name="Health" icon="apple.xml">
 
         <aff>I am healthy</aff>
         <aff>My mind is positive and healthy</aff>
@@ -52,7 +52,7 @@
     </cat>
 
 
-    <cat name="Relationships">
+    <cat name="Relationships" icon="apple.xml">
 
         <aff>I am in love with my partner</aff>
         <aff>I respect my partner deeply</aff>
@@ -68,7 +68,7 @@
     </cat>
 
 
-    <cat name="Money">
+    <cat name="Money" icon="apple.xml">
 
         <aff>I am wealthy</aff>
         <aff>I always have money</aff>
@@ -84,7 +84,7 @@
     </cat>
 
 
-    <cat name="Weight loss">
+    <cat name="Weight loss" icon="apple.xml">
 
         <aff>I am losing weight</aff>
         <aff>I am slim and fit</aff>
