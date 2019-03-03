@@ -68,7 +68,7 @@
     </cat>
 
 
-    <cat name="Money" icon="diet.png">
+    <cat name="Money" icon="dollar.png">
 
         <aff>I am wealthy</aff>
         <aff>I always have money</aff>
@@ -84,7 +84,7 @@
     </cat>
 
 
-    <cat name="Weight loss" icon="dollar.png">
+    <cat name="Weight loss" icon="diet.png">
 
         <aff>I am losing weight</aff>
         <aff>I am slim and fit</aff>
