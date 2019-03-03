@@ -3,7 +3,7 @@
 <affs>
 
 
-    <cat name="Motivation" icon="apple.png">
+    <cat name="Motivation" icon="care.png">
 
         <aff>I am a highly motivated person</aff>
         <aff>I am motivated at all times</aff>
@@ -35,7 +35,7 @@
     </cat>
 
 
-    <cat name="Health" icon="care.png">
+    <cat name="Health" icon="apple.png">
 
         <aff>I am healthy</aff>
         <aff>My mind is positive and healthy</aff>
@@ -51,7 +51,7 @@
     </cat>
 
 
-    <cat name="Relationships" icon="cash.png">
+    <cat name="Relationships" icon="balloons.png">
 
         <aff>I am in love with my partner</aff>
         <aff>I respect my partner deeply</aff>
@@ -67,7 +67,7 @@
     </cat>
 
 
-    <cat name="Money" icon="dollar.png">
+    <cat name="Money" icon="cash.png">
 
         <aff>I am wealthy</aff>
         <aff>I always have money</aff>
