@@ -3,7 +3,7 @@
 <affs>
 
 
-    <cat name="Motivation" icon="care.png">
+    <cat name="Motivation" icon="goal.png">
 
         <aff>I am a highly motivated person</aff>
         <aff>I am motivated at all times</aff>
@@ -19,7 +19,7 @@
     </cat>
 
 
-    <cat name="Self-esteem" icon="balloons.png">
+    <cat name="Self-esteem" icon="care.png">
 
         <aff>I feel great about myself and my life</aff>
         <aff>I love myself unconditionally</aff>
