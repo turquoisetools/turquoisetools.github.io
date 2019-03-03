@@ -19,9 +19,9 @@
     </cat>
 
 
-    <cat name="Love yourself" icon="balloons.png">
+    <cat name="Self-esteem" icon="balloons.png">
 
-        <aff>I feel great about myself and my life.</aff>
+        <aff>I feel great about myself and my life</aff>
         <aff>I love myself unconditionally</aff>
         <aff>I am a good person who deserves to be happy</aff>
         <aff>I take pride in who I am</aff>
@@ -29,7 +29,6 @@
         <aff>I am totally comfortable being myself</aff>
         <aff>I have limitless confidence in my abilities</aff>
         <aff>I accept myself deeply and completely</aff>
-        <aff>I have accomplished great things</aff>
         <aff>Others are inspired by my ability to be myself</aff>
         <aff>I have confidence in my ability to do whatever I set my mind to</aff>
 
