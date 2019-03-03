@@ -3,7 +3,7 @@
 <affs>
 
 
-    <cat name="Motivation">
+    <cat name="Motivation" icon="apple.xml">
 
         <aff>I am a highly motivated person</aff>
         <aff>I am motivated at all times</aff>
