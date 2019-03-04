@@ -2,7 +2,7 @@
 
 <style>
 
-    <attr name="fontName">CourierPrime</attr>
+    <attr name="fontName">OpenSans</attr>
 
     <attr name="textColor">#ffffff</attr>
     <attr name="textMaxSize">24</attr>

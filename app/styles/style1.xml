@@ -2,7 +2,7 @@
 
 <style>
 
-    <attr name="fontName">GreatVibes</attr>
+    <attr name="fontName">PlayfairDisplay</attr>
 
     <attr name="textColor">#ffffff</attr>
     <attr name="textMaxSize">24</attr>
