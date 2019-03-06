@@ -3,18 +3,20 @@
 <affs>
 
 
-    <cat name="Motivation" icon="goal.png">
+    <cat name="Success" icon="goal.png">
 
+        <aff>I am living a life of my own design</aff>
+        <aff>I make definite decisions and immediately take action on them</aff>
+        <aff>I follow my highest dreams by taking action on realistic, actionable plans</aff>
+        <aff>I am driven by my deepest life purpose</aff>
+        <aff>I am 100% in control of my own life</aff>
+        <aff>I always follow my highest intuition</aff>
         <aff>I am a highly motivated person</aff>
-        <aff>I am motivated at all times</aff>
-        <aff>I am always motivated and always get things done on time</aff>
-        <aff>I am a naturally motivated individual and motivation comes naturally to me</aff>
-        <aff>I am naturally motivated and energized at the beginning of every day</aff>
+        <aff>I take action on my intuition right now</aff>
         <aff>I am highly motivated, ambitious and driven</aff>
+        <aff>I am always motivated and always get things done on time</aff>
         <aff>I find it easy to motivate myself and get myself in the right state of mind</aff>
-        <aff>I am always looked up to as someone with high energy, drive, and motivation</aff>
-        <aff>I stay motivated throughout a project no matter what</aff>
-        <aff>I am always motivated and my positive energy motivates and lifts those around me</aff>
+        <aff>I always find the positive in everything</aff>
 
     </cat>
 
@@ -22,29 +24,31 @@
     <cat name="Self-esteem" icon="care.png">
 
         <aff>I feel great about myself and my life</aff>
-        <aff>I love myself unconditionally</aff>
-        <aff>I am a good person who deserves to be happy</aff>
-        <aff>I take pride in who I am</aff>
-        <aff>I am happy just being me</aff>
-        <aff>I am totally comfortable being myself</aff>
-        <aff>I have limitless confidence in my abilities</aff>
-        <aff>I accept myself deeply and completely</aff>
-        <aff>Others are inspired by my ability to be myself</aff>
-        <aff>I have confidence in my ability to do whatever I set my mind to</aff>
+        <aff>I fully accept myself exactly the way I am right now</aff>
+        <aff>I am an unique human being and an unique expression of the universe</aff>
+        <aff>I am aware that my self-image is my own mental construction, and I can shape it in any way I want</aff>
+        <aff>I realize that the way others see me is purely a reflection of how I see myself</aff>
+        <aff>I am confident, positive, and friendly</aff>
+        <aff>I embrace life and all its amazing possibilities</aff>
+        <aff>I am confident and relaxed when talking to the opposite sex</aff>
+        <aff>I always stand up for myself</aff>
+        <aff>I am always aware that life is short and death is guaranteed, so I'm fully open to life and I know there's nothing to be afraid of</aff>
+        
 
     </cat>
 
 
     <cat name="Health" icon="apple.png">
 
-        <aff>I am healthy</aff>
-        <aff>My mind is positive and healthy</aff>
-        <aff>My body is strong and healthy</aff>
-        <aff>I always eat healthy food</aff>
+        <aff>I am very interested in health</aff>
+        <aff>I am aware that improving my health will massively improve my life and happiness level over time</aff>
+        <aff>Working out even for 20 minutes today will greatly improve my whole day</aff>
+        <aff>I always focus on the feelings in my body throughout the day</aff>
+        <aff>I love healthy food</aff>
         <aff>I exercise and take care of my body</aff>
-        <aff>I am dedicated to improving my health</aff>
-        <aff>I am resilient against illness</aff>
-        <aff>I recover quickly from being sick</aff>
+        <aff>I release all tension from my mind and body</aff>
+        <aff>I am in control of my stress levels</aff>
+        <aff>I take time each day to relieve my stress with stress-relieving techniques</aff>
         <aff>My immune system is strong</aff>
         <aff>I always make healthy choices</aff>
 
@@ -53,48 +57,41 @@
 
     <cat name="Relationships" icon="heart.png">
 
-        <aff>I am in love with my partner</aff>
-        <aff>I respect my partner deeply</aff>
-        <aff>I am able to be my true self around my partner</aff>
+        <aff>The purpose of relationships is to give</aff>
         <aff>I communicate my wants and needs clearly</aff>
+        <aff>I am confident enough not to worry about my relationship</aff>
+        <aff>I know I deserve a happy, fulfilling, high-quality relationship</aff>
+        <aff>I believe in my ability to have a successful relationship</aff>
         <aff>I always take into consideration the perspective of my partner</aff>
-        <aff>I am constantly striving to grow the love between my partner and myself</aff>
         <aff>I am able to draw boundaries when needed</aff>
-        <aff>I go out of my way to support my partner</aff>
         <aff>I am tuned in to the wants and needs of my partner</aff>
         <aff>I am able to take space for myself when needed</aff>
+        <aff>I am always open to meeting new people</aff>
 
     </cat>
 
 
     <cat name="Money" icon="cash.png">
 
-        <aff>I am wealthy</aff>
-        <aff>I always have money</aff>
-        <aff>I attract financial abundance</aff>
-        <aff>My mind is finely tuned for attracting massive wealth</aff>
+        <aff>I see abundance in everything</aff>
+        <aff>I am grateful for what I already have</aff>
+        <aff>Opportunities to make money come to me naturally as I'm focusing on my deepest life purpose</aff>
+        <aff>The best things in life are free</aff>
+        <aff>I always wait a few days before making that purchase to think thoroughly about it</aff>
+        <aff>A minimalistic lifestyle is actually the most fulfilling</aff>
         <aff>I always think positively about money</aff>
-        <aff>I have many financial opportunities</aff>
-        <aff>I always find a way to make a large profit</aff>
-        <aff>I am rich and prosperous</aff>
         <aff>My life is full of abundance</aff>
-        <aff>I am focused on achieving wealth</aff>
 
     </cat>
 
 
     <cat name="Weight loss" icon="diet.png">
 
-        <aff>I am losing weight</aff>
-        <aff>I am slim and fit</aff>
-        <aff>I always take care of my body</aff>
         <aff>I only eat healthy food</aff>
+        <aff>My food habits are healthy because I am living a rich, fulfilling life following my deepest purpose</aff>
+        <aff>I love living a healthy lifestyle</aff>
+        <aff>I always take care of my body</aff>
         <aff>I am motivated to lose weight and become healthy</aff>
-        <aff>I am living a healthy life style</aff>
-        <aff>I am dedicated to following my weight loss plan</aff>
-        <aff>I am disciplined in my eating habits</aff>
-        <aff>I am strong in mind and body</aff>
-        <aff>I am completely focused on losing weight</aff>
 
     </cat>
 
