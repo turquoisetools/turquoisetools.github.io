@@ -22,31 +22,30 @@
     <cat name="Self-esteem" icon="care.png">
 
         <aff>I feel great about myself and my life</aff>
-        <aff>I fully accept myself exactly the way I am right now</aff>
-        <aff>I am an unique human being and an unique expression of the universe</aff>
+        <aff>I fully accept myself exactly as I am right now</aff>
+        <aff>I am a unique human being and a unique expression of the universe</aff>
         <aff>I am aware that my self-image is my own mental construction, and I can shape it in any way I want</aff>
-        <aff>I realize that the way others see me is purely a reflection of how I see myself</aff>
+        <aff>I realize that the way others see me is a reflection of how I see myself</aff>
         <aff>I am confident, positive, and friendly</aff>
         <aff>I embrace life and all its amazing possibilities</aff>
         <aff>I am confident and relaxed when talking to the opposite sex</aff>
         <aff>I always stand up for myself</aff>
-        <aff>I am always aware that life is short and death is guaranteed for everyone, so I'm fully open to life and I know there's nothing to be afraid of</aff>
+        <aff>I am always aware that life is short and death is a certainty, so I'm fully open to life and I know there's nothing to be afraid of</aff>
         
     </cat>
 
 
     <cat name="Health" icon="apple.png">
 
-        <aff>I am very interested in health</aff>
-        <aff>I am aware that improving my health will massively improve my life and happiness level over time</aff>
-        <aff>Working out even for 20 minutes today will greatly improve my whole day</aff>
-        <aff>I always focus on the feelings in my body throughout the day</aff>
+        <aff>I love being healthy</aff>
+        <aff>I am aware that improving my health will greatly increase my happiness level over time</aff>
+        <aff>Working out even for 20 minutes will greatly improve my whole day</aff>
+        <aff>I focus on the feelings in my body regularly throughout the day</aff>
         <aff>I love healthy food</aff>
         <aff>I exercise and take care of my body</aff>
         <aff>I release all tension from my mind and body</aff>
         <aff>I am in control of my stress levels</aff>
         <aff>I take time each day to relieve my stress with stress-relieving techniques</aff>
-        <aff>My immune system is strong</aff>
         <aff>I always make healthy choices</aff>
 
     </cat>
@@ -72,12 +71,12 @@
 
         <aff>Making money comes easy as I create massive value for others</aff>
         <aff>Opportunities to make money come to me naturally as I'm focusing on my life purpose</aff>
+        <aff>I always think positively about money</aff>
         <aff>I see abundance in everything</aff>
         <aff>I am grateful for what I already have</aff>
         <aff>The best things in life are free</aff>
-        <aff>I always wait a few days before making that purchase to think thoroughly about it</aff>
+        <aff>I always wait a few days before making a purchase to think thoroughly about it</aff>
         <aff>A minimalistic lifestyle is actually the most fulfilling</aff>
-        <aff>I always think positively about money</aff>
         <aff>My life is full of abundance</aff>
 
     </cat>
@@ -86,10 +85,10 @@
     <cat name="Weight loss" icon="diet.png">
 
         <aff>I only eat healthy food</aff>
-        <aff>My food habits are healthy because I am living a rich, fulfilling life following my deepest purpose</aff>
+        <aff>I am motivated to lose weight and become healthy</aff>
+        <aff>My food habits are healthy because I find fulfillment in my life purpose</aff>
         <aff>I love living a healthy lifestyle</aff>
         <aff>I always take care of my body</aff>
-        <aff>I am motivated to lose weight and become healthy</aff>
 
     </cat>
 
