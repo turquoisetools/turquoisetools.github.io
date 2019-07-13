@@ -39,6 +39,7 @@ body {
 
 #app #text {
     display: table-cell;
+    width: 480px;
 
     text-align: left;
 
@@ -79,13 +80,13 @@ body {
     margin-right: 20px
 }
 
-#app #text ul {
+
+/*#app #text ul {
     list-style-type: none;
     margin-left: 20px;
     padding: 0;
     font-size: 20px;
 }
-
 
 #app #text li {
     margin-bottom: 16px;
@@ -95,7 +96,16 @@ body {
     #app #text li {
         margin-bottom: 10px;
     }
+}*/
+
+
+#app #text p {
+    font-size: 20px;
+    margin-left: 20px;
+    line-height: 38px;
+    letter-spacing: 0.02em;
 }
+
 
 
 #content {
