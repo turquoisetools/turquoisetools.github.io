@@ -1,0 +1,4 @@
+app/backgrounds/*
+app/fonts/*
+*.swp
+.DS_Store
