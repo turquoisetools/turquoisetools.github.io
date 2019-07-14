@@ -326,7 +326,7 @@ body {
 
 
 .gplay-link {
-    display: block;
+    display: inline-block;
     margin-top: 20px;
     background: url('img/gplay.png');
     background-repeat: no-repeat;
