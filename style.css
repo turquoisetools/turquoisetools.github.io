@@ -282,15 +282,26 @@ body {
     margin: auto auto;
     margin-bottom: 60px;
     clear: both;
-    min-height: 600px;
     position: relative;
 }
 
+@media (min-width:1025px) {
+    .feature {
+        min-height: 600px;
+    }
+}
 
 
 .feature-text {
-    line-height: 40px;
+    line-height: 24px;
 }
+
+@media (min-width:1025px) {
+    .feature-text {
+        line-height: 40px;
+    }
+}
+
 .feature-image img {
     width: 100%;
     display: block;
