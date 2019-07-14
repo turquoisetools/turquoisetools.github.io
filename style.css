@@ -326,10 +326,16 @@ body {
 
 
 .gplay-link {
+    display: block;
     background: url('img/gplay.png');
     background-repeat: no-repeat;
     padding-left: 24px;
     margin-left: 4px;
 }
 
+@media (min-width:1025px) {
+    .gplay-link {
+        display: inline;
+    }
+}
 
