@@ -259,7 +259,7 @@ body {
 #footer {
     margin: auto auto;
     margin-top: 90px;
-    margin-bottom: 100px;
+    margin-bottom: 40px;
     text-align: center;
     color: #aaa;
 }
@@ -291,6 +291,10 @@ body {
 .feature-text {
     line-height: 40px;
 }
+.feature-image img {
+    width: 100%;
+    display: block;
+}
 
 
 @media (min-width:1025px) {
@@ -305,6 +309,9 @@ body {
         top: 50%;
         transform: translateY(-50%);
         position: absolute;
+    }
+    .feature-image img {
+        width: 500px;
     }
 
     .feature-left {
