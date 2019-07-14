@@ -286,24 +286,34 @@ body {
     position: relative;
 }
 
+
+
 .feature-text {
-    top: 50%;
-    transform: translateY(-50%);
-    position: absolute;
-    width: 350px;
     line-height: 40px;
 }
-.feature-image {
-    top: 50%;
-    transform: translateY(-50%);
-    position: absolute;
-}
 
-.feature-left {
-    left: 40px;
-}
-.feature-right {
-    right: 40px;
+
+@media (min-width:1025px) {
+
+    .feature-text {
+        top: 50%;
+        transform: translateY(-50%);
+        position: absolute;
+        width: 350px;
+    }
+    .feature-image {
+        top: 50%;
+        transform: translateY(-50%);
+        position: absolute;
+    }
+
+    .feature-left {
+        left: 40px;
+    }
+    .feature-right {
+        right: 40px;
+    }
+
 }
 
 
